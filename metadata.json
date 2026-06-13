@@ -1,0 +1,6 @@
+{
+  "name": "LUMOS",
+  "description": "Explore the cinematic journey of the boy who lived.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
